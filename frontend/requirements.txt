@@ -1,0 +1,4 @@
+flet==0.22.0
+httpx==0.25.2
+orjson==3.10.0
+uvicorn==0.29.0
